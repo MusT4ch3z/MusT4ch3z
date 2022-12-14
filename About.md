@@ -10,5 +10,5 @@
   https://must4ch3z.github.io/Markdown-Previewer/
 - 📫 Contacts: 
   Telegram: +7(952)407-46-56
-  E-mail: true-akk@yandex.ru 
+  E-mail: true-akk@yandex.ru
   LinkedIn: https://www.linkedin.com/in/egor-slobozhanin-13884125a/
