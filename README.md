@@ -19,4 +19,4 @@
   
   E-mail: true-akk@yandex.ru
   
-  [LinkedIn](https://www.linkedin.com/in/egor-slobozhanin-13884125a/)
+  [LinkedIn](https://www.linkedin.com/in/egor-13884125a/)
