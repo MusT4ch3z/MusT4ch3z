@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Egor
 - 🌱 I’m currently learning FrontEnd technologies(JS, React/Redux, Typescript, RTK Query) and looking for a job as a 💞️ Frontend Developer 💞️
 - 👀 Here I want to show you some of results of my studying of the art of frontend developing:
-  [Pryaniki Test Task](https://must4ch3z.github.io/Pryaniki/))
+
+  [Pryaniki Test Task](https://must4ch3z.github.io/Pryaniki/)
 
   [GitHub Search](https://must4ch3z.github.io/Github-Search/)
   
